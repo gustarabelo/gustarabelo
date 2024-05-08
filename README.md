@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width=100% bottom=50px src="https://img.freepik.com/fotos-gratis/cena-de-pixels-graficos-de-8-bits-com-cidade-ao-por-do-sol_23-2151120913.jpg?w=900&t=st=1715193571~exp=1715194171~hmac=0ddb16f79aa720d46ac32130c8320500bdc99bf7d327c378dd068bb4cef4fa79"/>
+<img width=100% bottom=50px src=""/>
 
 <!--
 **gustarabelo/gustarabelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
