@@ -1,5 +1,7 @@
 ### Hi devs 👋
-<img width=100% bottom=50px src="/backgroundGit.jpg"/>
+<div display=flex align=center>
+  <img width=70% bottom=50px src="/backgroundGit.jpg" align=center/>
+</div>
 
 <p> Olá, me chamo Gustavo, e sou estudante Back-end e criação de jogos. Atualmente tenho conhecimento em C# e JavaScript, e um pouco de TypeScript, Node, MongoDB, e uso a UnityEngine para criacão de jogos.</p>
 
