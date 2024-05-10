@@ -36,7 +36,7 @@
   
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustarabelo&theme=shadow-red&date_format=%5BY%20%5DM%20j&card_width=800&card_height=200)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=gustarabelo&theme=shadow-red&date_format=%5BY%20%5DM%20j&card_width=800&card_height=200)<br/>
 
 </div>
  
